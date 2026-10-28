@@ -1,6 +1,6 @@
 # Pneumonia Detection from Chest X-Rays: Classical ML vs. Fine-Tuned ResNet50
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR-GITHUB-USERNAME/chest-xray-pneumonia-classification/blob/main/notebooks/chest_xray_pneumonia_classification.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MatasTerezas/chest-xray-pneumonia-classification/blob/main/notebooks/chest_xray_pneumonia_classification.ipynb)
 ![Python](https://img.shields.io/badge/Python-3.10+-blue)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-Keras-orange)
 
@@ -58,7 +58,7 @@ chest-xray-pneumonia-classification/
 **Option 2: locally.**
 
 ```bash
-git clone https://github.com/YOUR-GITHUB-USERNAME/chest-xray-pneumonia-classification.git
+git clone https://github.com/MatasTerezas/chest-xray-pneumonia-classification.git
 cd chest-xray-pneumonia-classification
 pip install -r requirements.txt
 jupyter notebook notebooks/chest_xray_pneumonia_classification.ipynb
