@@ -1,0 +1,12 @@
+tensorflow>=2.16
+numpy
+scipy
+scikit-learn
+scikit-image
+opencv-python-headless
+pandas
+joblib
+matplotlib
+pillow
+kagglehub
+jupyter
