@@ -37,6 +37,10 @@ Sensitivity, specificity and F1 are at the default decision threshold of 0.5. Fo
 - **Uncertainty:** 95% confidence intervals from a bootstrap that resamples whole patients.
 - **Interpretability:** Grad-CAM on test examples chosen by outcome (true and false positives and negatives) rather than hand-picked.
 
+Example images before and after preprocessing (CLAHE contrast enhancement and Gaussian denoising), two per class:
+
+![Sample images](images/sample_images.png)
+
 ![Training history](images/training_history.png)
 
 ## Repository structure
